@@ -1,3 +1,1 @@
-## Welcome to my GitHub Pages
-
-This repository contains a few personal projects. 
+Skeleton version of the GitHub page. To be updated soon.
